@@ -1,0 +1,13 @@
+langchain_community
+tiktoken
+langchainhub
+pymilvus
+langchain
+langgraph
+tavily-python
+sentence-transformers
+langchain-milvus
+langchain-huggingface
+lark
+notebook
+pyreadline

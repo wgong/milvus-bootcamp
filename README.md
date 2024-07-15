@@ -267,3 +267,13 @@ Contributions to Milvus Bootcamp are welcome from everyone. See [Guidelines for 
 - 😺 For all other open source Milvus technical support, to discuss, and report bugs, join us on [GitHub Discussions](https://github.com/milvus-io/milvus/discussions).
 
 - 🧧 We also have a [Chinese WeChat group](images/wechat_group.png).
+
+
+### my note
+
+```
+conda create -n rag python=3.11
+conda activate rag
+pip install -r requirements.txt
+jupyter lab
+```
